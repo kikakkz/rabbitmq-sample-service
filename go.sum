@@ -49,10 +49,6 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/DATA-DOG/go-sqlmock v1.5.0 h1:Shsta01QNfFxHCfpW6YH2STWB0MudeXXEWMr20OEh60=
 github.com/DATA-DOG/go-sqlmock v1.5.0/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
-github.com/NpoolPlatform/go-service-framework v0.0.0-20211027135654-e14ba3112b89 h1:CsqvdZHQrG2WngyBMuE4Yrx/5oAHgG69Vu2ZQwHb5Zw=
-github.com/NpoolPlatform/go-service-framework v0.0.0-20211027135654-e14ba3112b89/go.mod h1:ws6ajpYgAFkdgKtSi25Uhqr1DZvDwlOOUDWmefLqbv8=
-github.com/NpoolPlatform/go-service-framework v0.0.0-20211027144256-8767896c9d8f h1:UXImf2eGU30YaRIi2Jm+dmbKC/4JpGiXGu7O7NCwb38=
-github.com/NpoolPlatform/go-service-framework v0.0.0-20211027144256-8767896c9d8f/go.mod h1:ws6ajpYgAFkdgKtSi25Uhqr1DZvDwlOOUDWmefLqbv8=
 github.com/NpoolPlatform/go-service-framework v0.0.0-20211027145440-01cd8b2b7eac h1:frH4VWV6AZKPmpSV7e+ar3WY8X18XHqBsDYOl/g+P4k=
 github.com/NpoolPlatform/go-service-framework v0.0.0-20211027145440-01cd8b2b7eac/go.mod h1:ws6ajpYgAFkdgKtSi25Uhqr1DZvDwlOOUDWmefLqbv8=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
