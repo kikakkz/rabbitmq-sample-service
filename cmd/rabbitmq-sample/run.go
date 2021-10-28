@@ -48,12 +48,16 @@ func runRabbitMQSample() error {
 	go consumer(1)
 	go consumer(2)
 	msg := struct {
+		ID      int    `json:"id"`
 		Example string `json:"example"`
 	}{
 		Example: "hello world",
 	}
 
+	id := 0
 	for {
+		msg.ID = id
+		id++
 		logger.Sugar().Infof("Publish hello world")
 		err := msgsrv.PublishToQueue("common", msg)
 		if err != nil {
